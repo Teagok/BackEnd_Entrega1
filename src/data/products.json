@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Fideos con bolognesa",
+    "price": 9999,
+    "description": " Fideos con aceite de oliva carne bolognesa",
+    "stock": 2
+  },
+  {
+    "id": 2,
+    "name": "Milanesa con papas fritas",
+    "price": 8500,
+    "description": "Milanesa con papas fritas",
+    "stock": 32
+  }
+]
