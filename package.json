@@ -1,0 +1,12 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "description": "API para gestionar productos y carritos de compras",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
